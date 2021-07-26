@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrinallU&layout=compact&theme=tokyonight)](https://github.com/MrinallU/github-readme-stats)
 <br />
+<br />
 <img src="https://komarev.com/ghpvc/?username=MrinallUT&label=Profile%20views&color=00acee&style=flat" alt="MrinallU" />
