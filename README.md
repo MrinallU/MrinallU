@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm [Mrinall Umasudhan](https://www.linkedin.com/in/mrinall-umasudhan-870a67213/), a student attending Seminole High School.
 
 [![Mrinall's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrinallU&show_icons=true&theme=tokyonight)](https://github.com/MrinallU/github-readme-stats)
-<br />
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrinallU&layout=compact&theme=tokyonight)](https://github.com/MrinallU/github-readme-stats)
-<br />
+<!-- <br />
+<br /> -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrinallU&layout=compact&theme=tokyonight)](https://github.com/MrinallU/github-readme-stats)
+<br /> -->
