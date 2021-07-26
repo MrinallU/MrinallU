@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
 
-I'm [Mrinall Umasudhan](https://www.linkedin.com/in/mrinall-umasudhan-870a67213/), an aspiring Software Developer and High School Student.
+I'm [Mrinall Umasudhan](https://www.linkedin.com/in/mrinall-umasudhan-870a67213/), an aspiring Software Developer and student.
 
 [![Mrinall's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrinallU&show_icons=true&theme=tokyonight)](https://github.com/MrinallU/github-readme-stats)
 
