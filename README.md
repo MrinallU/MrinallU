@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
+### Hi there 
 
 I'm [Mrinall Umasudhan](https://www.linkedin.com/in/mrinall-umasudhan-870a67213/), an aspiring Software Developer and Student.
 
