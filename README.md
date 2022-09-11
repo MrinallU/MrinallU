@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 
 
-I'm [Mrinall Umasudhan](https://www.linkedin.com/in/mrinall-umasudhan-870a67213/), an aspiring Software Developer and Student.
+I'm [Mrinall Umasudhan](https://www.linkedin.com/in/mrinall-umasudhan-870a67213/), student and aspiring software developer.
 
 [![Mrinall's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrinallU&show_icons=true&theme=tokyonight)](https://github.com/MrinallU/github-readme-stats)
 
