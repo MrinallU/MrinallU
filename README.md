@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there;)](https://git.io/typing-svg)  
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!;)](https://git.io/typing-svg)  
 
 I'm [Mrinall Umasudhan](https://www.linkedin.com/in/mrinall-umasudhan-870a67213/), student and aspiring software developer.
 
