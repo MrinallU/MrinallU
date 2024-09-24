@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+https://docs.google.com/document/d/1marl-iB7isTcrKwKqWrnoyXBa7rcFv8GnQtVyMzHL3k/edit
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!;)](https://git.io/typing-svg)  
 
 I'm [Mrinall Umasudhan](https://www.linkedin.com/in/mrinall-umasudhan-870a67213/), student and aspiring software developer.
